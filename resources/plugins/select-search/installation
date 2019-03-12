@@ -1,0 +1,4 @@
+<script type="text/javascript" src="assets/js/select2.js"></script> 
+<script type="text/javascript">
+	$('#select').select2();
+</script>

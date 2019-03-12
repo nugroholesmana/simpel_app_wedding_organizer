@@ -1,0 +1,96 @@
+body{
+  background-color:#fbf9f5;
+  font-family:sans-serif;
+}
+
+a{
+  color:#595958;
+  text-decoration:none;
+}
+
+div.top-head{
+  background-color:#67f875;
+  background-size:cover;
+  box-shadow:3px 3px 3px #595958;
+}
+
+div.top-head h3{
+  color:#404040;
+  text-indent:20px;
+  font-weight:bold;
+}
+
+div.mobile-text-heading h3{
+  color:#404040;
+  text-align:center;
+  text-indent:20px;
+  font-weight:bold;
+}
+
+div.line-head{
+  height:10px;
+}
+
+div.top-nav.row{
+  background-color:#ffffff;
+  box-shadow:1px 1px 1px #9d9696;
+  margin-bottom:15px;
+}
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover{
+  color:#fff;
+  background-color:#67f875;
+}
+
+.nav > li > a:focus, .nav > li > a:hover{
+  text-decoration:none;
+  background-color:#67f875;
+}
+
+a:focus, a:hover{
+  color:#fcfeff;
+  text-decoration:underline;
+}
+
+.panel-default{
+  box-shadow:1px 1px 1px #c8c8c8;
+}
+
+.panel-default > .panel-heading{
+  color:#404040;
+  font-weight:bold;
+  background-color:#67f875;
+  border-color:#67f875;
+}
+
+.panel-default > .panel-heading{
+  background-image:-webkit-linear-gradient(top,#67f875 0,#67f875 100%);
+  background-image:-o-linear-gradient(top,#f5f5f5 0,#e8e8e8 100%);
+  background-image:-webkit-gradient(linear,left top,left bottom,from(#67f875),to(#67f875));
+  background-image:linear-gradient(to bottom,#67f875 0,#67f875 100%);
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff5f5f5', endColorstr='#ffe8e8e8', GradientType=0);
+  background-repeat:repeat-x;
+}
+
+div.footer p{
+  color:#ffffff;
+  line-height:3;
+  text-align:center;
+}
+
+div.info-link{
+  text-align:center;
+}
+
+div.info-link a:hover{
+  color:#a2a2a2;
+  text-decoration:inherit;
+}
+
+div.keterangan-produk{
+  color:#262626;
+}
+
+div.row.pendaftaran-body{
+}
+

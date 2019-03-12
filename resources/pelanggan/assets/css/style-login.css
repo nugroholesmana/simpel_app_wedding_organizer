@@ -1,0 +1,56 @@
+body{
+  font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size:14px;
+  line-height:1.42857143;
+  color:#0c6121;
+  background-color:#fff;
+}
+
+.login-card{
+  max-width:350px;
+  padding:40px 40px;
+  background-color:#67f875;
+  margin:0 auto 25px;
+  margin-top:50px;
+  border-radius:2px;
+  box-shadow:0px 2px 2px #9d9696;
+}
+
+div.forgot-password a{
+  color:#0c6121;
+}
+
+div.login-card h3{
+  text-align:center;
+  font-size:30px;
+}
+
+.login-card .btn.btn-signin{
+  font-weight:700;
+  height:36px;
+  line-height:36px;
+  font-size:14px;
+  background:#0c6121;
+  border-radius:3px;
+  border:none;
+  transition:all 0.218s;
+  padding:0;
+}
+
+div.row.login-body{
+  background-image:url(../../assets/img/3.jpg);
+  background-size:inherit;
+  margin:-20px 0 -80px 0 !important;
+  clear:both;
+}
+
+div.row.login-body h1{
+  color:#ffffff;
+  text-shadow:1px 1px 1px #000000;
+}
+
+div.row.login-body ul li{
+  color:#ffffff;
+  text-shadow:3px 3px 3px #000000;
+}
+
